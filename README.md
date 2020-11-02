@@ -1,3 +1,3 @@
 
-This is isaac michum's first git project
+This is isaac michum's first git project!
 
